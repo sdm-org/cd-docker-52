@@ -66,7 +66,7 @@ development
 * node ≥ 7.0
 
 production
-
+ 
 * docker ≥ 1.13
 
 #### Production
