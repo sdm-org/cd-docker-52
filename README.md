@@ -22,7 +22,7 @@ This project is dedicated to build <b>simple yet powerful</b> Koa-React-Universa
 <b>Development:</b> We are using [koa-webpack-server](https://github.com/kimjuny/koa-webpack-server) (which simplifies development env set-ups), it also webpacks client and server(with client & server hot-load), so we can stay as much as the same with production.
  
 ### Screenshots 
-
+ 
 DEMO: Search Github Repositories.
 
 > Noted: Github search API has [Rate Limitation](https://developer.github.com/v3/search/#rate-limit) of 10 reqs/min (without credentials).
