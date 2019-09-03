@@ -1,4 +1,4 @@
-FROM kkarczmarczyk/node-yarn
+FROM kkarczmarczyk/node-yarn:latest
 
 # if you're in China, please comment above image and uncomment following image :)
 
