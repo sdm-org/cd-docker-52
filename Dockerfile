@@ -1,4 +1,4 @@
-FROM kkarczmarczyk/node-yarn:7.0
+FROM kkarczmarczyk/node-yarn:8.0
 
 # if you're in China, please comment above image and uncomment following image :)
 
